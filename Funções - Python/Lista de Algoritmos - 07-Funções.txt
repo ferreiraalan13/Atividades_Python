@@ -1,0 +1,36 @@
+1) - Desenvolva uma calculadora que receba dois valores e a operação a ser executada [+, -, *, /] da seguinte forma:
+     - Crie uma função que exibirá o menu da calculadora para o usuário exemplo:
+       =====CALCULADORA=====
+       = 1 - Somar         =
+       = 2 - Subtrair      =
+       = 3 - multiplicar   =
+       = 4 - Dividir       =
+       = 5 - Sair          =
+       =====================
+
+     - O algoritmo deverá ler os dados informados pelo usuário.
+     - Crie uma função que receba com parâmetro os valores e a operação a ser executada e retorne o resultado para o programa principal. Exiba o valor da operação para o usuário.
+
+2) - Desenvolva um programa em python que leia 10 valores inteiros e armazeno-os em um vetor.
+     a) Construa uma função que recebe como parâmetro o vetor com os valores cadastrados e exiba o valor e o índice dos elementos que são pares.
+
+     b) Construa uma função que recebe como parâmetro o vetor com os valores cadastrados e exiba o valor e o Índice dos elementos que são ímpares.
+
+     c) Construa uma função que recebe como parâmetro o vetor com os valores cadastrados e retorne a soma dos elementos do vetor, armazene o retorno da função em uma variável no programa principal e exiba a soma dos elementos.
+
+3) - Desenvolva um programa em python, que leia o salário de 10 funcionários. Crie uma função para calcular o novo salário do funcionário que recebera aumento de 15%.
+exiba o novo salário dos funcionários.
+
+4) - Leia valores e armazene em um vetor. Crie as funções abaixo que receba como parâmetro o vetor lido e exiba:
+     a) - A soma dos elementos do vetor.
+     b) - O maior elemento cadastrado no vetor.
+     c) - O menor elemento cadastrado no vetor.
+     d) - O número de ocorrências do primeiro elemento.
+     e) - A média dos elementos.
+     f) - A quantidade de elementos pares.
+     g) - A quantidade de elementos Ímpares.
+     f) - A soma dos elementos pares.
+     h) - A soma dos elementos Ímpares.
+
+5) - [Desafio] 
+Escreva um programa que corrija a prova dos alunos de uma classe. A prova consta de 30 questões, cada uma com cinco alternativas (a, b, c, d, e). O programa receberá os seguintes dados: o cartão gabarito; o número de alunos da turma; o cartão de respostas de cada aluno, contendo o seu número e suas respostas. A partir daí o programa deverá comparar as respostas de cada aluno com a resposta do gabarito e, no final, exibir os pontos que cada aluno obteve.
