@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Eficiencia e Alunos acima da media/1.0.0": {
+        "runtime": {
+          "Eficiencia e Alunos acima da media.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eficiencia e Alunos acima da media/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
